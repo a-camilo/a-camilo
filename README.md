@@ -15,7 +15,6 @@
   <img align="center" alt="Camilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camilo-Cucumber" height="30" width="40" src="https://camo.githubusercontent.com/b3f9feecc25b7d94cb93b3b3aa65981e09ff3ce14d4ee78a2991923a0e7b10d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637563756d6265722f637563756d6265722d706c61696e2e737667">
-  <img align="center" alt="Camilo-Postman" height="30" width="40" src="[[https://www.svgrepo.com/show/354201/postman.svg](https://logosdownload.com/logo/postman-logo-big.png)](https://user-images.githubusercontent.com/18669142/57947837-dbd25b80-7894-11e9-992d-225e476f760b.png)">
 </div>
 
 
