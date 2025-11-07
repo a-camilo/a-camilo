@@ -1,7 +1,10 @@
 ### Olá, eu sou Antonio Camilo 🙋🏾‍♂️
 
-- 🔭 Atualmente trabalho com teste de software quality assurance - QA
-- 🌱 Estou aprendendo Rest Assured para teste de API
+- Atuo em um time Ágil na Qualidade de Software
+- Minhas atividades são:
+  - Planejamento do scopo de teste 
+  - Validar os testes de acordo com o critério de aceite
+  - Realizar teste manual e automatizado API e UI
 - 🙌🏾 Seja bem vindo ao meu repositório!!!
 
 <div align="center">
